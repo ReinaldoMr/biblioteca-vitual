@@ -7,7 +7,7 @@
 
 > Site institucional da Biblioteca Virtual da UniFECAF, desenvolvido como projeto acadêmico para apresentar o acervo digital, unidades de estudo e canais de contato.
 
-🔗 **Acesse o site:** 
+🔗 **Acesse o site:**  https://reinaldomr.github.io/biblioteca-vitual/
 
 ---
 
