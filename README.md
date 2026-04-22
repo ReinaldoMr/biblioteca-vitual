@@ -7,7 +7,7 @@
 
 > Site institucional da Biblioteca Virtual da UniFECAF, desenvolvido como projeto acadêmico para apresentar o acervo digital, unidades de estudo e canais de contato.
 
-🔗 **Acesse o site:** [https://[seu-usuario].github.io/biblioteca-unifecaf](https://[seu-usuario].github.io/biblioteca-unifecaf)
+🔗 **Acesse o site:** [https://[ReinaldoSr.].github.io/biblioteca-unifecaf](https://[ReinaldoSr.].github.io/biblioteca-unifecaf)
 
 ---
 
