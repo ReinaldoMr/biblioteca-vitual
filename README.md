@@ -40,4 +40,5 @@ O projeto consiste em uma página web responsiva que simula o ambiente digital d
 
 ---
 
-## 📁 Estrutura de Pastas
+
+
